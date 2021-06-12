@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sbouts.github.io/sitemap.xml

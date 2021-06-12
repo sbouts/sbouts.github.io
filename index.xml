@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Stefan's Notepad</title><link>https://sbouts.github.io/</link><description>Recent content on Stefan's Notepad</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://sbouts.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stefan&#39;s Notepad</title>
+    <link>https://sbouts.github.io/</link>
+    <description>Recent content on Stefan&#39;s Notepad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sbouts.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
